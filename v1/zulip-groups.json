@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "T-infra": {
+      "name": "T-infra",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116155
+        },
+        {
+          "id": 121055
+        },
+        {
+          "email": "aidanhs@cantab.net"
+        },
+        {
+          "email": "kennytm@gmail.com"
+        }
+      ]
+    }
+  }
+}
